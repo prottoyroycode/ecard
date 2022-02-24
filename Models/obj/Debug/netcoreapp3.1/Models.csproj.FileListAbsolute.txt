@@ -1,0 +1,16 @@
+D:\prottoy\eCard\e-card-api\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\prottoy\eCard\e-card-api\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.json
+D:\prottoy\eCard\e-card-api\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.dev.json
+D:\prottoy\eCard\e-card-api\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\prottoy\eCard\e-card-api\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\prottoy\eCard\e-card-api\Models\bin\Debug\netcoreapp3.1\Library.Core.dll
+D:\prottoy\eCard\e-card-api\Models\bin\Debug\netcoreapp3.1\Library.Core.pdb
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.csproj.CopyComplete
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.pdb
+D:\prottoy\eCard\e-card-api\Models\obj\Debug\netcoreapp3.1\Models.genruntimeconfig.cache

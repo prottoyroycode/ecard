@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\pubroy/ecard</_PublishTargetUrl>
+    <History>True|2021-11-14T11:53:20.5518059Z;True|2021-11-09T16:16:20.5698096+06:00;True|2021-11-08T10:53:23.2923741+06:00;True|2021-11-08T10:52:39.0781668+06:00;True|2021-11-07T15:11:36.8982158+06:00;True|2021-11-02T14:34:18.8915803+06:00;True|2021-11-01T16:55:39.4779527+06:00;True|2021-11-01T16:54:57.7128855+06:00;True|2021-11-01T16:54:00.9556631+06:00;True|2021-10-31T17:38:20.9967716+06:00;</History>
+  </PropertyGroup>
+</Project>

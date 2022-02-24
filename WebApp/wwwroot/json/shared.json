@@ -1,0 +1,462 @@
+{
+  "success": true,
+  "responseCode": 0,
+  "description": "Success",
+  "data": {
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "sku": 20,
+        "title": "Test Google Play",
+        "upc": 659245863859,
+        "description": "{\"content\":[{\"title\":\"Product Description:\",\"description\":\"Power up in over 1M Android apps and games on Google Play, the world's largest mobile gaming platform.&#160;<div>Use a Google Play gift code to go further in your favorite games like Clash Royale or Pok&#233;mon Go or redeem your code for the latest apps, movies, books, and more.&#160;</div><div>There&#8217;s no credit card required, and balances never expire. Treat yourself or give the gift of Play today.</div>\",\"type\":\"marketing\"},{\"title\":\"Redemption:\",\"description\":\"Only use this gift card's code on Google Play. Any other request for the code may be a scam.&#160;<div>Visitplay.google.com/giftcardscam or call1-855-466-4438.To redeem, enter code in the Play Store app or https://play.google.com/store.</div>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions:\",\"description\":\"See play.google.com/us-card-terms for full terms. Must be 13+ years of age, US resident. Google Play card is issued by Google Arizona LLC (&#8220;GAZ&#8221;). Requires Google Payments account and internet access to redeem. Redeemed balance is maintained by GAZ&#8217;s affiliate, Google Payment Corp. (&#8220;GPC&#8221;), in your Google Payments account. Usable for purchases of eligible items on Google Play only. Not usable for hardware and certain subscriptions. Other limits may apply. No fees or expiration dates. Except as required by law, card is not redeemable for cash or other cards; not reloadable or refundable; cannot be combined with other non-Google Play balances in your Google Payments account, resold, exchanged, or transferred for value.&#160;<div>User responsible for loss of card. For assistance or to view your Google Play card balance, visit support.google.com/googleplay/go/cardhelp. To speak to customer care call us at 1-855-466-4438.&#10;&#10;&#160;&#160;<div>&#160;Brand Partner Contact:&#10;&#10;Call: 1-855-466-4438</div></div>\",\"type\":\"terms\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2019/10/1.png",
+        "min_price": 10,
+        "max_price": 10,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 25,
+        "title": "Test PlayStation",
+        "upc": 659245833937,
+        "description": "{\"content\":[{\"title\":\"Product Description\",\"description\":\"PlayStation Now (PS Now) is a cloud gaming &#10;subscription service developed by Sony Interactive Entertainment. The &#10;service allows members to stream PlayStation 2, PlayStation 3and &#10;PlayStation 4 games on PlayStation 4 and PC.PlayStation 2 and &#10;PlayStation 4 games can also be downloaded to play locally on &#10;PlayStation 4Hundreds of Incredible Games on Demand Get instant access &#10;to a huge collection of more than 800 PS4&#8482;, PS3&#8482; andPS2&#8482; games on PS4&#8482; &#10;or PC, with new games added every month. Stream over 800 PS4&#8482;, PS3&#8482; and &#10;PS2&#8482; titles from a wide range of genres to your PS4&#8482; or PC. Play as much&#10; as you like, save your progress and continue playing on either device. &#10;Or pick from over 300 PS4 games to download to your PS4&#8482; console and &#10;they&#8217;ll be ready to play, in up to 4K resolution if you&#8217;re playing on &#10;PS4&#8482; Pro. Whether you stream or download, your PS Now subscription &#10;includes full access to most available online multiplayer modes.&#10;<p class=\\\"MsoNormal\\\">&#160;</p>\",\"type\":\"marketing\"},{\"title\":\"Redemption\",\"description\":\"1.Open a PlayStation&#8482;Network (PSN) account (or use your existing PSNaccount).&#10;<p class=\\\"MsoNormal\\\">2.Select the PlayStation&#8482;Storeicon on the &#8220;PS4&#8221; system home screen.</p>&#10;<p class=\\\"MsoNormal\\\">3.On PlayStation&#8482;Store, select &#8220;Redeem Codes&#8221; at the bottom of themenu.4</p>&#10;<p class=\\\"MsoNormal\\\">.Enter the code.</p>&#10;<p class=\\\"MsoNormal\\\">5.Once the code has been entered correctly, select &#8220;Continue&#8221; on the dialog box.</p>&#10;<p class=\\\"MsoNormal\\\">6.Select &#8220;Continue&#8221; to complete code redemption.</p>&#10;<p class=\\\"MsoNormal\\\">Your 12-month membership subscription will renew &#10;automatically and $59.99+ applicable tax will be deducted from your &#10;wallet every 12 months until you cancel. If your wallet has insufficient&#10; funds, your account&#8217;s default payment method will be charged. Enrolling&#10; in service turns on your wallet&#8217;s automatic funding setting. Price may &#10;change.</p>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions\",\"description\":\"PlayStation&#8482;Now is only available to U.S. residents&#10; and Canadian residents with a PSN account who are 18 years or older. &#10;Users who have not reached the legal age of majority in your &#10;jurisdiction need a parent or legal guardian&#8217;s consent to establish a &#10;PSN Account, and may not be able to access certain content or services. &#10;Use of PSN and PS Now is subject to the Terms of Service and User &#10;Agreement and applicable privacy policy, see &#10;www.playstation.com/en-us/network/legal/terms-of-service/. High-speed &#10;broadband Internet service (5Mbs or greater) is required for download &#10;and access to certain content, features and benefits. User responsible &#10;for associated fees. PSN and PS Now features and offerings may change &#10;without notice, including but not limited to the removal of games from &#10;the subscription service. &#8220;PS4&#8221;, &#8220;PS3&#8221; and &#8220;PS2&#8221; systems all sold &#10;separately. Card is not redeemable for cash, cannot be returned for cash&#10; or credit, and may not be used for any other purpose. Card will not be &#10;replaced if lost, destroyed, orstolen.Sony Interactive Entertainment &#10;LLC, its parent company, affiliated companies and licensors make no &#10;express or implied warranties with respect to Card,PSN, PlayStation&#8482;Now,&#10; or the availability of products or services. To the extent permitted by&#10; law, your sole and exclusive remedy is the replacement of Card. For &#10;assistance, contactplaystation.com/helpme. &#8220;PlayStation&#8221;,&#8220;PlayStation &#10;Family Mark&#8221;, &#8220;PS4&#8221;, &#8220;PS3&#8221; and &#8220;PS2&#8221; are registered trade marks or &#10;trademarks, and &#8220;PSN&#8221; is a service mark of Sony Interactive &#10;Entertainment Inc.&#10;<p class=\\\"MsoNormal\\\">&#160;</p>&#10;<p class=\\\"MsoNormal\\\"><strong>Brand Partner Contact: </strong></p>&#10;<p class=\\\"MsoNormal\\\">Visit:&#160;<a href=\\\"http://www.playstation.com\\\">www.playstation.com</a></p>\",\"type\":\"terms\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test 2"
+          },
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2019/11/13.jpg",
+        "min_price": 2,
+        "max_price": 2,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 41,
+        "title": "Test amazon T",
+        "upc": 659245796660,
+        "description": "{\"content\":[{\"title\":\"Product Description\",\"description\":\"<span>Amazon.com Gift Cards* never expire and can be&#10;redeemed towards millions of items at </span><span><a href=\\\"http://www.amazon.com\\\"><span>www.amazon.com</span></a></span>\",\"type\":\"marketing\"},{\"title\":\"Redemption\",\"description\":\"&#10;&#10;<p class=\\\"TableText\\\"><span>To redeem your gift card, follow these steps:</span></p>&#10;&#10;<p class=\\\"TableText\\\"><span><span>1.<span>&#160;&#160;&#160;&#160;&#160;&#160;&#10;</span></span></span><span dir=\\\"LTR\\\"></span><span>Visit </span><a href=\\\"http://www.amazon.com/redeem\\\"><span>www.amazon.com/r<span class=\\\"auto-style2\\\">edeem</span></span></a><span></span></p>&#10;&#10;<p class=\\\"TableText\\\"><span><span>2.<span>&#160;&#160;&#160;&#160;&#160;&#160;&#10;</span></span></span><span dir=\\\"LTR\\\"></span><span>Enter the Claim&#10;Code when prompted.</span></p>&#10;&#10;<p class=\\\"TableText\\\"><span><span>3.<span>&#160;&#160;&#160;&#160;&#160;&#160;&#10;</span></span></span><span dir=\\\"LTR\\\"></span><span>Gift card&#10;funds will be applied automatically to eligible orders during the checkout&#10;process.</span></p>&#10;&#10;<p class=\\\"TableText\\\"><span><span>4.<span>&#160;&#160;&#160;&#160;&#160;&#160;&#10;</span></span></span><span dir=\\\"LTR\\\"></span><span>You must pay&#10;for any remaining balance on your order with another payment method.</span></p>&#10;&#10;<p class=\\\"TableText\\\"><span>&#160;</span></p>&#10;&#10;<p class=\\\"TableText\\\"><span>Your gift card claim code may also be entered when prompted during&#10;checkout. To redeem your gift card using the </span><a href=\\\"https://www.amazon.com\\\"><span>Amazon.com</span></a><span> 1-Click&#174; service, first add the&#10;gift card funds to Your Account.</span></p>&#10;&#10;<span>If you have questions&#10;about redeeming your gift card, please visit </span><span><a href=\\\"http://www.amazon.com/gc-redeem\\\"><span>www.amazon.com/gc-redeem</span></a></span><span>.</span>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions\",\"description\":\"<span>Restrictions&#10;apply, see </span><span><a href=\\\"http://www.amazon.com/gc-legal\\\"><span>amazon.com/gc-legal</span></a></span>\",\"type\":\"terms\"},{\"title\":\"Legal Disclaimer\",\"description\":\"<span>Restrictions&#10;apply, see </span><span><a href=\\\"http://www.amazon.com/gc-legal\\\"><span>amazon.com/gc-legal</span></a></span>\",\"type\":\"legal_disclaimer\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2019/11/20_WD3zoPh.jpg",
+        "min_price": 9,
+        "max_price": 9,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 407,
+        "title": "Test out of stuck",
+        "upc": 659245716766,
+        "description": "",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2019/11/Image1_lFuTbNn.jpg",
+        "min_price": 10,
+        "max_price": 10,
+        "price_fix": null,
+        "pre_order": false,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 922,
+        "title": "Test Gift card",
+        "upc": 659245851726,
+        "description": "{\"content\":[{\"title\":\"Product Description:\",\"description\":\"Power up in over 1M Android apps and games on Google Play, the world's largest mobile gaming platform.&#160;<div>Use a Google Play gift code to go further in your favorite games like Clash Royale or Pok&#233;mon Go or redeem your code for the latest apps, movies, books, and more.&#160;</div><div>There&#8217;s no credit card required, and balances never expire. Treat yourself or give the gift of Play today.</div>\",\"type\":\"marketing\"},{\"title\":\"Redemption:\",\"description\":\"Only use this gift card's code on Google Play. Any other request for the code may be a scam.&#160;<div>Visitplay.google.com/giftcardscam or call1-855-466-4438.To redeem, enter code in the Play Store app or https://play.google.com/store.</div>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions:\",\"description\":\"See play.google.com/us-card-terms for full terms. Must be 13+ years of age, US resident. Google Play card is issued by Google Arizona LLC (&#8220;GAZ&#8221;). Requires Google Payments account and internet access to redeem. Redeemed balance is maintained by GAZ&#8217;s affiliate, Google Payment Corp. (&#8220;GPC&#8221;), in your Google Payments account. Usable for purchases of eligible items on Google Play only. Not usable for hardware and certain subscriptions. Other limits may apply. No fees or expiration dates. Except as required by law, card is not redeemable for cash or other cards; not reloadable or refundable; cannot be combined with other non-Google Play balances in your Google Payments account, resold, exchanged, or transferred for value.&#160;<div>User responsible for loss of card. For assistance or to view your Google Play card balance, visit support.google.com/googleplay/go/cardhelp. To speak to customer care call us at 1-855-466-4438. &#160;&#160;<div>&#160;Brand Partner Contact: Call: 1-855-466-4438</div></div>\",\"type\":\"terms\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2021/01/test_gift_card.jpg",
+        "min_price": 5,
+        "max_price": 5,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 922,
+        "title": "Test Gift card",
+        "upc": 659245878907,
+        "description": "{\"content\":[{\"title\":\"Product Description:\",\"description\":\"Power up in over 1M Android apps and games on Google Play, the world's largest mobile gaming platform.&#160;<div>Use a Google Play gift code to go further in your favorite games like Clash Royale or Pok&#233;mon Go or redeem your code for the latest apps, movies, books, and more.&#160;</div><div>There&#8217;s no credit card required, and balances never expire. Treat yourself or give the gift of Play today.</div>\",\"type\":\"marketing\"},{\"title\":\"Redemption:\",\"description\":\"Only use this gift card's code on Google Play. Any other request for the code may be a scam.&#160;<div>Visitplay.google.com/giftcardscam or call1-855-466-4438.To redeem, enter code in the Play Store app or https://play.google.com/store.</div>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions:\",\"description\":\"See play.google.com/us-card-terms for full terms. Must be 13+ years of age, US resident. Google Play card is issued by Google Arizona LLC (&#8220;GAZ&#8221;). Requires Google Payments account and internet access to redeem. Redeemed balance is maintained by GAZ&#8217;s affiliate, Google Payment Corp. (&#8220;GPC&#8221;), in your Google Payments account. Usable for purchases of eligible items on Google Play only. Not usable for hardware and certain subscriptions. Other limits may apply. No fees or expiration dates. Except as required by law, card is not redeemable for cash or other cards; not reloadable or refundable; cannot be combined with other non-Google Play balances in your Google Payments account, resold, exchanged, or transferred for value.&#160;<div>User responsible for loss of card. For assistance or to view your Google Play card balance, visit support.google.com/googleplay/go/cardhelp. To speak to customer care call us at 1-855-466-4438. &#160;&#160;<div>&#160;Brand Partner Contact: Call: 1-855-466-4438</div></div>\",\"type\":\"terms\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2021/01/test_gift_card.jpg",
+        "min_price": 10,
+        "max_price": 10,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 922,
+        "title": "Test Gift card",
+        "upc": 659245849136,
+        "description": "{\"content\":[{\"title\":\"Product Description:\",\"description\":\"Power up in over 1M Android apps and games on Google Play, the world's largest mobile gaming platform.&#160;<div>Use a Google Play gift code to go further in your favorite games like Clash Royale or Pok&#233;mon Go or redeem your code for the latest apps, movies, books, and more.&#160;</div><div>There&#8217;s no credit card required, and balances never expire. Treat yourself or give the gift of Play today.</div>\",\"type\":\"marketing\"},{\"title\":\"Redemption:\",\"description\":\"Only use this gift card's code on Google Play. Any other request for the code may be a scam.&#160;<div>Visitplay.google.com/giftcardscam or call1-855-466-4438.To redeem, enter code in the Play Store app or https://play.google.com/store.</div>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions:\",\"description\":\"See play.google.com/us-card-terms for full terms. Must be 13+ years of age, US resident. Google Play card is issued by Google Arizona LLC (&#8220;GAZ&#8221;). Requires Google Payments account and internet access to redeem. Redeemed balance is maintained by GAZ&#8217;s affiliate, Google Payment Corp. (&#8220;GPC&#8221;), in your Google Payments account. Usable for purchases of eligible items on Google Play only. Not usable for hardware and certain subscriptions. Other limits may apply. No fees or expiration dates. Except as required by law, card is not redeemable for cash or other cards; not reloadable or refundable; cannot be combined with other non-Google Play balances in your Google Payments account, resold, exchanged, or transferred for value.&#160;<div>User responsible for loss of card. For assistance or to view your Google Play card balance, visit support.google.com/googleplay/go/cardhelp. To speak to customer care call us at 1-855-466-4438. &#160;&#160;<div>&#160;Brand Partner Contact: Call: 1-855-466-4438</div></div>\",\"type\":\"terms\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2021/01/test_gift_card.jpg",
+        "min_price": 20,
+        "max_price": 20,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 922,
+        "title": "Test Gift card",
+        "upc": 659245811447,
+        "description": "{\"content\":[{\"title\":\"Product Description:\",\"description\":\"Power up in over 1M Android apps and games on Google Play, the world's largest mobile gaming platform.&#160;<div>Use a Google Play gift code to go further in your favorite games like Clash Royale or Pok&#233;mon Go or redeem your code for the latest apps, movies, books, and more.&#160;</div><div>There&#8217;s no credit card required, and balances never expire. Treat yourself or give the gift of Play today.</div>\",\"type\":\"marketing\"},{\"title\":\"Redemption:\",\"description\":\"Only use this gift card's code on Google Play. Any other request for the code may be a scam.&#160;<div>Visitplay.google.com/giftcardscam or call1-855-466-4438.To redeem, enter code in the Play Store app or https://play.google.com/store.</div>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions:\",\"description\":\"See play.google.com/us-card-terms for full terms. Must be 13+ years of age, US resident. Google Play card is issued by Google Arizona LLC (&#8220;GAZ&#8221;). Requires Google Payments account and internet access to redeem. Redeemed balance is maintained by GAZ&#8217;s affiliate, Google Payment Corp. (&#8220;GPC&#8221;), in your Google Payments account. Usable for purchases of eligible items on Google Play only. Not usable for hardware and certain subscriptions. Other limits may apply. No fees or expiration dates. Except as required by law, card is not redeemable for cash or other cards; not reloadable or refundable; cannot be combined with other non-Google Play balances in your Google Payments account, resold, exchanged, or transferred for value.&#160;<div>User responsible for loss of card. For assistance or to view your Google Play card balance, visit support.google.com/googleplay/go/cardhelp. To speak to customer care call us at 1-855-466-4438. &#160;&#160;<div>&#160;Brand Partner Contact: Call: 1-855-466-4438</div></div>\",\"type\":\"terms\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2021/01/test_gift_card.jpg",
+        "min_price": 30,
+        "max_price": 30,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 922,
+        "title": "Test Gift card",
+        "upc": 659245752108,
+        "description": "{\"content\":[{\"title\":\"Product Description:\",\"description\":\"Power up in over 1M Android apps and games on Google Play, the world's largest mobile gaming platform.&#160;<div>Use a Google Play gift code to go further in your favorite games like Clash Royale or Pok&#233;mon Go or redeem your code for the latest apps, movies, books, and more.&#160;</div><div>There&#8217;s no credit card required, and balances never expire. Treat yourself or give the gift of Play today.</div>\",\"type\":\"marketing\"},{\"title\":\"Redemption:\",\"description\":\"Only use this gift card's code on Google Play. Any other request for the code may be a scam.&#160;<div>Visitplay.google.com/giftcardscam or call1-855-466-4438.To redeem, enter code in the Play Store app or https://play.google.com/store.</div>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions:\",\"description\":\"See play.google.com/us-card-terms for full terms. Must be 13+ years of age, US resident. Google Play card is issued by Google Arizona LLC (&#8220;GAZ&#8221;). Requires Google Payments account and internet access to redeem. Redeemed balance is maintained by GAZ&#8217;s affiliate, Google Payment Corp. (&#8220;GPC&#8221;), in your Google Payments account. Usable for purchases of eligible items on Google Play only. Not usable for hardware and certain subscriptions. Other limits may apply. No fees or expiration dates. Except as required by law, card is not redeemable for cash or other cards; not reloadable or refundable; cannot be combined with other non-Google Play balances in your Google Payments account, resold, exchanged, or transferred for value.&#160;<div>User responsible for loss of card. For assistance or to view your Google Play card balance, visit support.google.com/googleplay/go/cardhelp. To speak to customer care call us at 1-855-466-4438. &#160;&#160;<div>&#160;Brand Partner Contact: Call: 1-855-466-4438</div></div>\",\"type\":\"terms\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2021/01/test_gift_card.jpg",
+        "min_price": 50,
+        "max_price": 50,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      },
+      {
+        "sku": 1094,
+        "upc": 659245743274,
+        "title": "NetFlix UAE",
+        "min_price": 100.0,
+        "max_price": 100.0,
+        "currency": {
+          "id": 132,
+          "country": "United Arab Emirates",
+          "currency": "Dirham",
+          "symbol": "AED",
+          "code": "AED"
+        },
+        "categories": [
+          {
+            "name": "Netflix UAE"
+          }
+        ],
+        "regions": [
+          {
+            "name": "United Arab Emirates",
+            "code": "AE"
+          }
+        ],
+        "pre_order": true,
+        "price_fix": null,
+        "showing_price": {
+          "price": null,
+          "showing_currency": {
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2021/04/netflix.jpg",
+        "description": "{\"content\":[{\"title\":\"Product Description\",\"description\":\"With streaming movies, television, and original &#10;programming, Netflix has something for everyone. Netflix members can &#10;watch their favorite entertainment right at home and on any device they &#10;want, with no commercials. Ever.&#10;<p class=\\\"MsoNormal\\\">&#160;</p>\",\"type\":\"marketing\"},{\"title\":\"Redemption\",\"description\":\"<div align=\\\"left\\\">To start watching:&#10;</div><ol><li><span><span><span>&#160;</span></span></span>Go to <a href=\\\"http://www.netflix.com/code\\\">www.netflix.com/code</a></li><li><span><span><span>&#160; </span></span></span>Enter the code</li></ol>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions\",\"description\":\"Valid only towards the Netflix streaming service &#10;via Netflix Account (18+ to bea member), in countries where the service &#10;is offered in US dollars. Entire value credited to your Netflix account &#10;upon redemption. Nonrefundable or redeemable for cash, except where &#10;required by law. Does not expire. No resale. Netflix is not responsible &#10;for lost or stolen cards or unauthorized use. Full terms apply, &#10;visitwww.netflix.com/cardterms. Cards issued by NGS Services LLC.&#10;<p class=\\\"MsoNormal\\\">&#160;</p>&#10;<p class=\\\"MsoNormal\\\"><strong>Brand Partner Contact: </strong></p>&#10;<p class=\\\"MsoNormal\\\">Visit: <a href=\\\"http://www.netflix.com/\\\">www.netflix.com</a></p>\",\"type\":\"terms\"}],\"barcode\":null}"
+      },
+      {
+        "sku": 1095,
+        "upc": 659245714144,
+        "title": "NetFlix UAE",
+        "min_price": 500.0,
+        "max_price": 500.0,
+        "currency": {
+          "id": 132,
+          "country": "United Arab Emirates",
+          "currency": "Dirham",
+          "symbol": "AED",
+          "code": "AED"
+        },
+        "categories": [
+          {
+            "name": "Netflix UAE"
+          }
+        ],
+        "regions": [
+          {
+            "name": "United Arab Emirates",
+            "code": "AE"
+          }
+        ],
+        "pre_order": true,
+        "price_fix": null,
+        "showing_price": {
+          "price": null,
+          "showing_currency": {
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2021/04/netflix_PT4oED7.jpg",
+        "description": "{\"content\":[{\"title\":\"Product Description\",\"description\":\"With streaming movies, television, and original &#10;programming, Netflix has something for everyone. Netflix members can &#10;watch their favorite entertainment right at home and on any device they &#10;want, with no commercials. Ever.&#10;<p class=\\\"MsoNormal\\\">&#160;</p>\",\"type\":\"marketing\"},{\"title\":\"Redemption\",\"description\":\"To start watching:&#10;<ol><li><span><span><span>&#160;&#160;&#160;&#160;&#160;&#160; </span></span></span>Go to <a href=\\\"http://www.netflix.com/code\\\">www.netflix.com/code</a></li><li><span><span><span>&#160;&#160; </span></span></span>Enter the code</li></ol>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions\",\"description\":\"Valid only towards the Netflix streaming service &#10;via Netflix Account (18+ to bea member), in countries where the service &#10;is offered in US dollars. Entire value credited to your Netflix account &#10;upon redemption. Nonrefundable or redeemable for cash, except where &#10;required by law. Does not expire. No resale. Netflix is not responsible &#10;for lost or stolen cards or unauthorized use. Full terms apply, &#10;visitwww.netflix.com/cardterms. Cards issued by NGS Services LLC.&#10;<p class=\\\"MsoNormal\\\">&#160;</p>&#10;<p class=\\\"MsoNormal\\\"><strong>Brand Partner Contact: </strong></p>\",\"type\":\"terms\"}],\"barcode\":null}"
+      },
+      {
+        "sku": 25,
+        "title": "Test PlayStation",
+        "upc": 659245833937,
+        "description": "{\"content\":[{\"title\":\"Product Description\",\"description\":\"PlayStation Now (PS Now) is a cloud gaming &#10;subscription service developed by Sony Interactive Entertainment. The &#10;service allows members to stream PlayStation 2, PlayStation 3and &#10;PlayStation 4 games on PlayStation 4 and PC.PlayStation 2 and &#10;PlayStation 4 games can also be downloaded to play locally on &#10;PlayStation 4Hundreds of Incredible Games on Demand Get instant access &#10;to a huge collection of more than 800 PS4&#8482;, PS3&#8482; andPS2&#8482; games on PS4&#8482; &#10;or PC, with new games added every month. Stream over 800 PS4&#8482;, PS3&#8482; and &#10;PS2&#8482; titles from a wide range of genres to your PS4&#8482; or PC. Play as much&#10; as you like, save your progress and continue playing on either device. &#10;Or pick from over 300 PS4 games to download to your PS4&#8482; console and &#10;they&#8217;ll be ready to play, in up to 4K resolution if you&#8217;re playing on &#10;PS4&#8482; Pro. Whether you stream or download, your PS Now subscription &#10;includes full access to most available online multiplayer modes.&#10;<p class=\\\"MsoNormal\\\">&#160;</p>\",\"type\":\"marketing\"},{\"title\":\"Redemption\",\"description\":\"1.Open a PlayStation&#8482;Network (PSN) account (or use your existing PSNaccount).&#10;<p class=\\\"MsoNormal\\\">2.Select the PlayStation&#8482;Storeicon on the &#8220;PS4&#8221; system home screen.</p>&#10;<p class=\\\"MsoNormal\\\">3.On PlayStation&#8482;Store, select &#8220;Redeem Codes&#8221; at the bottom of themenu.4</p>&#10;<p class=\\\"MsoNormal\\\">.Enter the code.</p>&#10;<p class=\\\"MsoNormal\\\">5.Once the code has been entered correctly, select &#8220;Continue&#8221; on the dialog box.</p>&#10;<p class=\\\"MsoNormal\\\">6.Select &#8220;Continue&#8221; to complete code redemption.</p>&#10;<p class=\\\"MsoNormal\\\">Your 12-month membership subscription will renew &#10;automatically and $59.99+ applicable tax will be deducted from your &#10;wallet every 12 months until you cancel. If your wallet has insufficient&#10; funds, your account&#8217;s default payment method will be charged. Enrolling&#10; in service turns on your wallet&#8217;s automatic funding setting. Price may &#10;change.</p>\",\"type\":\"redeem\"},{\"title\":\"Terms and Conditions\",\"description\":\"PlayStation&#8482;Now is only available to U.S. residents&#10; and Canadian residents with a PSN account who are 18 years or older. &#10;Users who have not reached the legal age of majority in your &#10;jurisdiction need a parent or legal guardian&#8217;s consent to establish a &#10;PSN Account, and may not be able to access certain content or services. &#10;Use of PSN and PS Now is subject to the Terms of Service and User &#10;Agreement and applicable privacy policy, see &#10;www.playstation.com/en-us/network/legal/terms-of-service/. High-speed &#10;broadband Internet service (5Mbs or greater) is required for download &#10;and access to certain content, features and benefits. User responsible &#10;for associated fees. PSN and PS Now features and offerings may change &#10;without notice, including but not limited to the removal of games from &#10;the subscription service. &#8220;PS4&#8221;, &#8220;PS3&#8221; and &#8220;PS2&#8221; systems all sold &#10;separately. Card is not redeemable for cash, cannot be returned for cash&#10; or credit, and may not be used for any other purpose. Card will not be &#10;replaced if lost, destroyed, orstolen.Sony Interactive Entertainment &#10;LLC, its parent company, affiliated companies and licensors make no &#10;express or implied warranties with respect to Card,PSN, PlayStation&#8482;Now,&#10; or the availability of products or services. To the extent permitted by&#10; law, your sole and exclusive remedy is the replacement of Card. For &#10;assistance, contactplaystation.com/helpme. &#8220;PlayStation&#8221;,&#8220;PlayStation &#10;Family Mark&#8221;, &#8220;PS4&#8221;, &#8220;PS3&#8221; and &#8220;PS2&#8221; are registered trade marks or &#10;trademarks, and &#8220;PSN&#8221; is a service mark of Sony Interactive &#10;Entertainment Inc.&#10;<p class=\\\"MsoNormal\\\">&#160;</p>&#10;<p class=\\\"MsoNormal\\\"><strong>Brand Partner Contact: </strong></p>&#10;<p class=\\\"MsoNormal\\\">Visit:&#160;<a href=\\\"http://www.playstation.com\\\">www.playstation.com</a></p>\",\"type\":\"terms\"}],\"barcode\":null}",
+        "currency": {
+          "id": 133,
+          "country": "Test",
+          "currency": "TestService",
+          "symbol": "EZ",
+          "code": "EZD"
+        },
+        "categories": [
+          {
+            "name": "Test 2"
+          },
+          {
+            "name": "Test Products"
+          }
+        ],
+        "regions": {
+          "name": "Global",
+          "code": "GLC"
+        },
+        "image": "https://media.ezpaypin.com/media/products/images/2019/11/13.jpg",
+        "min_price": 2,
+        "max_price": 2,
+        "price_fix": null,
+        "pre_order": true,
+        "showing_price": {
+          "id": null,
+          "price": null,
+          "showing_currency": {
+            "country": null,
+            "currency": "",
+            "symbol": "",
+            "code": ""
+          }
+        }
+      }
+    ]
+  }
+}
